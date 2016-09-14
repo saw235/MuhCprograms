@@ -1,0 +1,33 @@
+Corn_Chips         55  5
+
+Tortilla_Chips     40  3
+
+Potato_Chips       45  5
+
+Pretzels           40 10
+
+Cheese_Curls       50  6
+
+Popcorn            40  5
+
+Cheese_Crackers    40  2
+
+Creme_Cookies      65  1
+
+Mint_Gum           25  5
+
+Fruit_Gum          25  2
+
+Chocolate_Bar      35  3
+
+Gum_Drops          30  6
+
+Oatmeal_Cookies    75  7
+
+Licorice           85  9
+
+Fruit_Chews        35  7
+
+Cough_Drops        80  2
+
+
